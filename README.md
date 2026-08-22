@@ -23,3 +23,5 @@ Run the main script to index your documents and start the interactive Q&A sessio
 ```bash
 python main.py
 ```
+## Code Readability
+The codebase is thoroughly commented to make the implementation and RAG pipeline easier to understand and follow.
